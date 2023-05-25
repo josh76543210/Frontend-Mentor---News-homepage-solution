@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-CF2R4BF4C2](https://www.frontendmentor.io/solutions/news-homepage-CF2R4BF4C2)
+- Live Site URL: [https://josh76543210-fm-news-homepage.netlify.app/](https://josh76543210-fm-news-homepage.netlify.app/)
 
 ## My process
 
